@@ -2,8 +2,7 @@
 
 As a data enthusiast with a robust academic background and hands-on experience in applied mathematics and data analytics, I thrive on solving complex problems using machine learning algorithms and quantitative methods. My PhD in Applied Mathematics from the University of Essex, combined with my MSc in Statistics with Data Analytics from Brunel University London, has equipped me with a deep understanding of data visualisation, programming, and statistical analysis. I've had the privilege of teaching and mentoring students, leading lab classes, and problem-solving sessions in data visualisation and text analytics with R. My research endeavours have further honed my skills, particularly in network inference and connectivity using statistical approaches. I'm passionate about leveraging my expertise to uncover insights from data and develop innovative solutions. Proficient in Matlab, R, and Python, I am always eager to explore new challenges in the realm of data science and machine learning.
 
-
-## Education
+## Education
 
 * University of Essex, Colchester, UK
 Doctor of Philosophy, Applied Mathematics, October, 2020 - August, 2024

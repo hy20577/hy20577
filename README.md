@@ -55,8 +55,7 @@ Simulation International Conference Proceeding, Springer.
 information rate. British Applied Mathematics Colloquium 2023, Bristol, UK.
 https://engmaths.github.io/bamc2023/talks/talk216/
 * Network re-construction for the complex data generated from the discrete and
-continuous models. Mathematics Essex Seminar Series. https://researchseminars.
-org/talk/EssexMaths/45/
+continuous models. Mathematics Essex Seminar Series. https://researchseminars.org/talk/EssexMaths/45/
 * Network Inference with Mutual Information Rate. Poster presentation in CIMPA
 summer school, Mathematical methods in data analysis, 2022, Tirana, Albania
 https://sites.google.com/view/mathschoolinalbania/home.

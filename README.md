@@ -17,23 +17,26 @@ August 2015
 
 ## Experience
 
-* Assistant Lecturer University of Essex
-October 2021 - April 2024 Colchester, UK
+* Assistant Lecturer, University of Essex
+
+October 2021 - April 2024, Colchester, UK
 
 I have been leading lab classes and problem-solving sessions of up to 60 students in
 the modules of Data Visualisation (MA304), Programming and Text Analytics with R
 (MA331), Applied Regression and experimental data analysis (MA717).
 
-* Research Assistant University of Essex
-Summer, 2022 & 2023 Colchester, UK
+* Research Assistant, University of Essex
+
+Summer, 2022 & 2023, Colchester, UK
 
 I worked as a data analyst in an ongoing project of mathematics education at the
 University of Essex, in the summer terms of 2022 and 2023 and developed shinny R
 interactive app to present the findings of my statistical analysis.
 
 * Math Teacher Fen Bilimleri Private College
-August 2015 - June 2018
-Istanbul, Turkiye
+
+August 2015 - June 2018, Istanbul, Turkiye
+
 I had been instructing classes of up to 20 students, aged 16-18, in a wide range of
 mathematics subjects, including A Level topics.
 

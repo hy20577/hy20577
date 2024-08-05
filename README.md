@@ -6,15 +6,15 @@ As a data enthusiast with a robust academic background and hands-on experience i
 
 *  Doctor of Philosophy, Applied Mathematics (October, 2020 - August, 2024)
 
-University of Essex, Colchester, UK
+  University of Essex, Colchester, UK
 
 *  Master of Science, Statistics with Data Analytics (October 2018 - December 2019)
 
-Brunel University London, London, UK
+  Brunel University London, London, UK
 
 *  Integrated Bachelor and Master of Science, Mathematics Education (October 2010 - August 2015)
 
-Bogazici University, Istanbul, Turkiye
+  Bogazici University, Istanbul, Turkiye
 ## Experience
 
 * Assistant Lecturer, University of Essex, Colchester, UK (October 2021 - April 2024)

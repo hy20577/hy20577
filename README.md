@@ -15,6 +15,36 @@ Istanbul, Turkiye
 Integrated Bachelor and Master of Science, Mathematics Education, October 2010 -
 August 2015
 
+## Experience
+
+* Assistant Lecturer University of Essex
+October 2021 - April 2024 Colchester, UK
+
+I have been leading lab classes and problem-solving sessions of up to 60 students in
+the modules of Data Visualisation (MA304), Programming and Text Analytics with R
+(MA331), Applied Regression and experimental data analysis (MA717).
+
+* Research Assistant University of Essex
+Summer, 2022 & 2023 Colchester, UK
+
+I worked as a data analyst in an ongoing project of mathematics education at the
+University of Essex, in the summer terms of 2022 and 2023 and developed shinny R
+interactive app to present the findings of my statistical analysis.
+
+* Math Teacher Fen Bilimleri Private College
+August 2015 - June 2018
+Istanbul, Turkiye
+I had been instructing classes of up to 20 students, aged 16-18, in a wide range of
+mathematics subjects, including A Level topics.
+
+## Publications
+
+* H. Yildirim, C. G. Antonopoulos. Network inference using mutual information
+rate, statistical tests and amplitude-phase modulated surrogate data. Chaos, Soli-
+tons & Fractals (Submitted in April 2024).
+* H. Yildirim, C. G. Antonopoulos. A statistical approach to infer connectivity in
+complex networks using the mutual information rate. 16th Chaotic Modeling and
+Simulation International Conference Proceeding, Springer.
 
 ## Talks and Conference
 

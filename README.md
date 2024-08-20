@@ -42,7 +42,7 @@ rate, statistical tests and amplitude-phase modulated surrogate data_. Chaos, So
 complex networks using the mutual information rate_. 16th Chaotic Modeling and
 Simulation International Conference Proceeding, Springer.
 
-## Talks and Conference
+## Talks and Conferences
 
 * A statistical approach to infer connectivity in complex networks using the mutual
 information rate. British Applied Mathematics Colloquium 2023, Bristol, UK.

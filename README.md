@@ -37,10 +37,7 @@ mathematics subjects, including A Level topics.
 ## Publications
 
 * H. Yildirim, C. G. Antonopoulos. _Network inference using mutual information
-rate, statistical tests and amplitude-phase modulated surrogate data_. Chaos, Solitons & Fractals (Submitted in August 2024).
-* H. Yildirim, C. G. Antonopoulos. _A statistical approach to infer connectivity in
-complex networks using the mutual information rate_. 16th Chaotic Modeling and
-Simulation International Conference Proceeding, Springer.
+rate, statistical tests and amplitude-phase modulated surrogate data. Chaos, Solitons & Fractals 188 (2024): 115554.
 
 ## Talks and Conferences
 

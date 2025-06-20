@@ -4,7 +4,7 @@ As a data enthusiast with a robust academic background and hands-on experience i
 
 ## Education
 
-*  Doctor of Philosophy, Applied Mathematics (October, 2020 - August, 2024)
+*  Doctor of Philosophy, Applied Mathematics (October, 2020 - October, 2024)
 
   University of Essex, Colchester, UK
 
